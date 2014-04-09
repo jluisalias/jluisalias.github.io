@@ -10,11 +10,11 @@ body{
 	margin-right : auto;
 	padding : 1em;
 	background-color:#E0E6F8;
-	border: solid 1px #090617;
+	border: solid 5px #A2B5DC;
 }
 
 .title, .text p, #comment, .table td {
-	font-family: "Century Gothic", Tahoma, sans-serif;
+	font-family: "Corbel", Tahoma, sans-serif;
 }
 
 .title h1 {
