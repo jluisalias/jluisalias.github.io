@@ -149,4 +149,6 @@ td.logo {
 	background:url(images/icons.png) 30px 0;
 }
 
-
+span.invisible{
+	visibility: hidden;
+}
