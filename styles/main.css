@@ -1,3 +1,5 @@
+@import url(fonts/weblysleek.css);
+
 body{
 	width:100%;
 	height:100%;
@@ -14,7 +16,7 @@ body{
 }
 
 .title, .text p, #comment, .table td {
-	font-family: "Corbel", Tahoma, sans-serif;
+	font-family: "Webly Sleek", Tahoma, sans-serif;
 }
 
 .title h1 {
